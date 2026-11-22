@@ -1,0 +1,8 @@
+.DS_Store
+# The private side: the user's profile, their machine, and the main
+# agent's own repo. Each is the user's alone and never shared.
+global/USER.md
+global/MACHINE.md
+projects/
+# The user's own skills that stay private.
+skills/frontend-design/
